@@ -74,7 +74,7 @@ const SliderHome = () => {
           justifyContent: "center",
           display: "flex",
           marginLeft: "50%",
-          marginTop: "37.8%",
+          marginTop: "39.4%",
           height: "15vh",
           fontSize: "20px",
           textAlign: "center",

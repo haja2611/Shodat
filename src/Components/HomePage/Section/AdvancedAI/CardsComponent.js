@@ -74,6 +74,8 @@ const CenteredContainer = styled("div")({
   justifyContent: "center",
   alignItems: "center",
   margin: "100px",
+  // background: "#e6f0f2",
+  // background: "#f8f4ff",
 });
 const CardsComponent = () => {
   const [hovered, setHovered] = useState(Array(cards.length).fill(false));

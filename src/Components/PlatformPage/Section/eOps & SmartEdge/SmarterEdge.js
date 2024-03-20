@@ -76,7 +76,7 @@ const SmarterEdge = () => {
             gutterBottom
           >
             Smarter Operations with Intelligent Edge
-          </Typography>{" "}
+          </Typography>
         </Grid>
         <Grid
           item

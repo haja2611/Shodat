@@ -27,7 +27,7 @@ const ProductionReadyAi = () => {
         >
           <span style={{ fontWeight: 700, color: "#340D73" }}>
             Production-ready AI,
-          </span>{" "}
+          </span>
           <br /> enriched with industry experience
         </Typography>
       </Grid>
